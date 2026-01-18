@@ -16,7 +16,7 @@ Passionate developer crafting exceptional digital experiences through clean code
 - 🎓 **CSE Graduate** with focus on Machine Learning & AI
 - 🎯 Future Vision: **Combining Software Engineering with AI Technologies**
 - 💬 Ask me about **React, Next.js, Node.js, or anything MERN**
-- 📫 How to reach me: **[mdkabirulhossainj@gmail.com]**
+- 📫 How to reach me: **mdkabirulhossainj@gmail.com**
 - ⚡ Fun fact: **I turn coffee into code!** ☕
 
 ## 🛠️ Tech Stack
