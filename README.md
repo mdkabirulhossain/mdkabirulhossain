@@ -13,10 +13,10 @@ Passionate developer crafting exceptional digital experiences through clean code
 - 🔭 Currently working as **Frontend Developer @ Softvence**
 - 🌱 Exploring **AI integration with web applications**
 - 💼 Specializing in **Next.js, TypeScript & Tailwind CSS**
-- 🎓 **CSE Graduate** with focus on Machine Learning & AI
+- 🎓 **CSE Graduate** from United International University
 - 🎯 Future Vision: **Combining Software Engineering with AI Technologies**
 - 💬 Ask me about **React, Next.js, Node.js, or anything MERN**
-- 📫 How to reach me: **mdkabirulhossainj@gmail.com**
+- 📫 How to reach me: **mdkabirulhossainj@gmail.co**
 - ⚡ Fun fact: **I turn coffee into code!** ☕
 
 ## 🛠️ Tech Stack
@@ -52,11 +52,11 @@ Passionate developer crafting exceptional digital experiences through clean code
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdkabirulhossain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=mdkabirulhossain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdkabirulhossain&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdkabirulhossain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdkabirulhossain&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdkabirulhossain&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -64,57 +64,19 @@ Passionate developer crafting exceptional digital experiences through clean code
 
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=mdkabirulhossain&theme=tokyonight&no-frame=true&row=1&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=mdkabirulhossain&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
-
-## 🔥 Featured Projects
-
-### 📌 Project Name 1
-> Brief description of your most impressive project
-
-**Tech Stack:** React, Node.js, MongoDB, Tailwind CSS
-
-- ✨ Key feature 1
-- ✨ Key feature 2
-- ✨ Key feature 3
-
-🔗 [Live Demo](https://project-link.com) | [Repository](https://github.com/username/repo)
-
----
-
-### 📌 Project Name 2
-> Brief description of another impressive project
-
-**Tech Stack:** Next.js, TypeScript, Express, MongoDB
-
-- ✨ Key feature 1
-- ✨ Key feature 2
-- ✨ Key feature 3
-
-🔗 [Live Demo](https://project-link.com) | [Repository](https://github.com/username/repo)
-
----
-
-### 📌 Project Name 3
-> Brief description of your third project
-
-**Tech Stack:** React, Node.js, Tailwind CSS
-
-- ✨ Key feature 1
-- ✨ Key feature 2
-- ✨ Key feature 3
-
-🔗 [Live Demo](https://project-link.com) | [Repository](https://github.com/username/repo)
 
 ## 💼 Professional Experience
 
 **Frontend Developer** @ Softvence  
-*Duration: Month Year - Present*
+*November 2024 - Present*
 
 - Building responsive and scalable web applications using Next.js and TypeScript
 - Implementing modern UI/UX designs with Tailwind CSS
 - Collaborating with cross-functional teams to deliver high-quality solutions
+- Developing clean, maintainable, and efficient code following best practices
 
 ## 🎓 Education
 
@@ -128,11 +90,10 @@ Passionate developer crafting exceptional digital experiences through clean code
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/your-username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kabirul15.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdkabirulhossainj@gmail.co)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdkabirulhossain)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdkabirulhossain)
 
 </div>
 
@@ -146,7 +107,7 @@ Passionate developer crafting exceptional digital experiences through clean code
 
 ### 👀 Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/mdkabirulhossain/count.svg)
+<img src="https://komarev.com/ghpvc/?username=mdkabirulhossain&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 ### ⭐ Show some love!
 
