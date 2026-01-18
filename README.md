@@ -1,10 +1,12 @@
-# Hi there, I'm Md. Kabirul Hossain 👋
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Frontend+Developer+%40+Softvence;Building+Scalable+Web+Applications;AI+%2B+Web+Engineering+Enthusiast)](https://git.io/typing-svg)
+
+# 👋 Hi there, I'm **Md. Kabirul Hossain**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=false&width=600&height=70&lines=MERN+Stack+Developer+%F0%9F%9A%80;Frontend+Developer+%40+Softvence+%F0%9F%92%BC;Building+Scalable+Web+Applications+%E2%9C%A8;AI+%2B+Web+Engineering+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 
 </div>
+
+---
 
 ## 🚀 About Me
 
@@ -52,10 +54,14 @@ Passionate developer crafting exceptional digital experiences through clean code
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=mdkabirulhossain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdkabirulhossain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdkabirulhossain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdkabirulhossain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
+</div>
+
+<div align="center">
+  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdkabirulhossain&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
@@ -64,7 +70,7 @@ Passionate developer crafting exceptional digital experiences through clean code
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=mdkabirulhossain&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=mdkabirulhossain&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
