@@ -52,11 +52,11 @@ Passionate developer crafting exceptional digital experiences through clean code
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdkabirulhossain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdkabirulhossain&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdkabirulhossain&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -64,7 +64,7 @@ Passionate developer crafting exceptional digital experiences through clean code
 
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=mdkabirulhossain&theme=tokyonight&no-frame=true&row=1&column=7)
 
 </div>
 
@@ -119,7 +119,7 @@ Passionate developer crafting exceptional digital experiences through clean code
 ## 🎓 Education
 
 **Bachelor of Science in Computer Science & Engineering**  
-*Institution Name* | *Graduation Year*
+*United International University* | *2024*
 
 - Focus Areas: Machine Learning, Artificial Intelligence, Software Engineering
 - Relevant Coursework: Data Structures, Algorithms, Database Systems, AI/ML
@@ -146,7 +146,7 @@ Passionate developer crafting exceptional digital experiences through clean code
 
 ### 👀 Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/mdkabirulhossain/count.svg)
 
 ### ⭐ Show some love!
 
