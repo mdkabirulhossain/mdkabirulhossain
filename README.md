@@ -62,7 +62,8 @@ Passionate developer crafting exceptional digital experiences through clean code
 
 <div align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdkabirulhossain&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=mdkabirulhossain&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 
 </div>
 
@@ -70,7 +71,7 @@ Passionate developer crafting exceptional digital experiences through clean code
 
 <div align="center">
   
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=mdkabirulhossain&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=mdkabirulhossain&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=5" alt="GitHub Trophies" />
 
 </div>
 
