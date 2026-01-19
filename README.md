@@ -3,8 +3,6 @@
 # 👋 Hi there, I'm **Md. Kabirul Hossain**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=false&width=600&height=70&lines=Full+Stack+Developer+%F0%9F%9A%80;Frontend+Developer+%40+Softvence+%F0%9F%92%BC;Building+Scalable+Web+Applications+%E2%9C%A8;AI+%2B+Web+Engineering+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
-<br/><br/>
-<img src="Kabirul.png" alt="Md. Kabirul Hossain" width="200" style="border-radius: 50%; margin: 20px 0;" />
 
 </div>
 
@@ -94,7 +92,7 @@ With hands-on expertise spanning the MERN stack, WordPress ecosystem, and emergi
 ## 💼 Professional Experience
 
 ### **Frontend Developer** @ Softvence
-*November 2024 - Present*
+*November 2025 - Present*
 
 - Architecting and developing responsive, scalable web applications using Next.js, TypeScript, and React
 - Implementing modern UI/UX designs with Tailwind CSS and component libraries (shadcn, DaisyUI)
