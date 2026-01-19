@@ -60,20 +60,6 @@ Passionate developer crafting exceptional digital experiences through clean code
 
 </div>
 
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdkabirulhossain&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=mdkabirulhossain&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-
-</div>
-
 ## 💼 Professional Experience
 
 **Frontend Developer** @ Softvence  
