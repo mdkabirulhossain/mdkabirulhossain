@@ -63,7 +63,7 @@ Passionate developer crafting exceptional digital experiences through clean code
 ## 💼 Professional Experience
 
 **Frontend Developer** @ Softvence  
-*November 2024 - Present*
+*November 2025 - Present*
 
 - Building responsive and scalable web applications using Next.js and TypeScript
 - Implementing modern UI/UX designs with Tailwind CSS
